@@ -121,7 +121,7 @@ main {
     font-size: 20px;
 }
 
-.icon a svg {
+.icon a img {
     transition: 0.4s all;
 }
 
@@ -151,7 +151,7 @@ main {
     font-size: 10pt;
 }
 
-.textfield > svg {
+.textfield > img {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
